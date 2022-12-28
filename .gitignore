@@ -1,0 +1,6 @@
+code/
+*.pdf
+data/
+*.csv
+*.xlsx
+*.pdf
