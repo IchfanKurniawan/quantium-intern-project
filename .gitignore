@@ -1,6 +1,6 @@
-code/
-*.pdf
 data/
 *.csv
 *.xlsx
+*.pdf
+pdf-report/
 *.pdf
