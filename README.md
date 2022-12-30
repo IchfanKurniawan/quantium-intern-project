@@ -4,6 +4,21 @@
 ## Project Context
 As part of Quantium’s retail analytics tem and approached by your client, the Category Manager for Chips, who wants to better understand the types of customers who purchase Chips and their purchasing behaviour within the region,  let's explore the dataset & find insights from your analysis will feed into the supermarket’s strategic plan for the chip category in the next half year.  
 
+## Segmentation & Recommendation  
+- top 3 segments: young singles/couple-mainstream, retirees-mainstream, older singles/couples-budget/mainstream  
+- the top 3 segments also have the most of customer numbers  
+- the top 3 segments also have the most of the total purchased product quantity  
+- the preferred product brands of the top 3 segments are (1) Smiths, (2) Doritos, (3) Thins  
+- the preferred pack sizes of the top 3 segments are (1) 175, (2) 170, (3) 110  
+- in the revenue per prouduct quantity metric, the top 3 segments above are still the top 3 in term of the sum of revenue per prouduct quantity.  
+- however, the mean of the revenue per prouduct quantity metric are almost similar for all segments (roughtly 3,5 dollar per purchased product). This mean that from overall segments they are all individual buyer not for sale again  
+
+**To improve sales** in stores, The store manager may want to increase the category’s performance
+by **off-locating the top 3 product brand and top 3 product size** of chips in discretionary space near segments
+where the top 3 dominant segments frequent more often to increase visibilty and impulse behaviour.  
+
+---  
+---  
 
 ## FINDINGS  
 **General Distribution?**
